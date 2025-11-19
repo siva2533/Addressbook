@@ -41,6 +41,7 @@ int main() {
                 break;
             case 7:
                 printf("Thank You!\n");
+                break;
             default:
                 printf("Invalid choice. Please try again.\n");
         }
@@ -48,3 +49,4 @@ int main() {
     
        return 0;
 }
+
