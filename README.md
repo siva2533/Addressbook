@@ -90,13 +90,9 @@ Enter your choice:
 ```
 ---
 📌 Future Enhancements
-A–Z alphabetical sorting
-
-Export to CSV/JSON
-
-Unlimited dynamic memory support
-
-ncurses-based text UI
-
-Backup & restore features
+- A–Z alphabetical sorting
+- Export to CSV/JSON
+- Unlimited dynamic memory support
+- ncurses-based text UI
+- Backup & restore features
 
